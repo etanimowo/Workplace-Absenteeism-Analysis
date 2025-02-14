@@ -31,7 +31,6 @@ This project analyzes **employee absenteeism data** to identify key trends, unco
 ## 📂 Project Files  
 - `Absenteeism_Dataset.xlsx` – Raw dataset used for analysis.  
 - `Absenteeism_Analysis_PowerBI.pbix` – Power BI dashboard file.  
-- `Absenteeism_Analysis_Tableau.twbx` – Tableau workbook.  
 - `Excel_Analysis.xlsx` – Excel reports and visualizations.  
 
 ## 🚀 Future Improvements  
