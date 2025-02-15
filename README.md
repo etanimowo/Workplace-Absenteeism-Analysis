@@ -1,7 +1,7 @@
 # 🏢 Workplace Absenteeism Analysis  
 
 ## 📌 Project Overview  
-This project analyzes **employee absenteeism data** to identify key trends, uncover patterns, and provide actionable insights for HR teams. The goal is to help organizations improve **workplace productivity, employee engagement, and attendance management** using **Excel, Power BI, and Tableau**.  
+This project analyzes **employee absenteeism data** to identify key trends, uncover patterns, and provide actionable insights for HR teams. The goal is to help organizations improve **workplace productivity, employee engagement, and attendance management** using **Excel**.  
 
 ## 📊 Key Objectives  
 ✅ Calculate and visualize the **Absenteeism Rate** across different dimensions.  
